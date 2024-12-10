@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About Me
+
 - 🦋 My name is Yukito Aomi.
 - 🧑‍🎓 I’m currently a university student.
+
+<!--
+# 自己紹介
+
+- 🦋 僕の名前は碧海ユキトです。
+- 🧑‍🎓 現在は大学生です。
+-->
