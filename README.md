@@ -1,28 +1,25 @@
 ## Hello, GitHub 👋
 
-<!--
-**Yukito-Aomi/Yukito-Aomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # About Me
 
 - 🦋 My name is Yukito Aomi.
 - 🧑‍🎓 I’m currently a university student.
+- 📚 My hobby is reading detective stories.
+- 🌱 I’m currently learning ...
+  - Object-Oriented Programming
+  - Image Processing
+  - Deep Learning
 
 <!--
 # 自己紹介
 
 - 🦋 僕の名前は碧海ユキトです。
 - 🧑‍🎓 現在は大学生です。
+- 📚 趣味は推理小説を読むことです。
+- 🌱 現在は次のことを学んでいます。
+  - オブジェクト指向プラグラミング
+  - 画像処理
+  - ディープラーニング（深層学習）
 -->
