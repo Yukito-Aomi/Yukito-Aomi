@@ -1,16 +1,19 @@
 ## Hello, GitHub 👋
 
+Hello, everyone! My name is *Yukito Aomi*. Please call me *Aomi*.
 
 
 # About Me
 
-- 🦋 My name is Yukito Aomi.
-- 🧑‍🎓 I’m currently a university student.
-- 📚 My hobby is reading detective stories.
+- 🦋 My name is *Yukito Aomi*
+- 🇯🇵 I was born and raised in Aichi Prefecture, Japan
+- 🧑‍🎓 I’m currently a university student
+- 📚 My hobby is reading detective stories
 - 🌱 I’m currently learning ...
   - Object-Oriented Programming
   - Image Processing
   - Deep Learning
+
 
 <!--
 # 自己紹介
